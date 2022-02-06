@@ -1,2 +1,2 @@
-BOT_TOKEN = "5023392014:AAGpMjDWKq_hkuqq9faSofNo1eqU6kO_qrY" 
-APP_URL = "https://mtgar.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5214556378:AAFdaL-zCJr5gXMBQReAjH2XQ9dHcNbV3Es" 
+APP_URL = "https://moiu6.herokuapp.com/" + BOT_TOKEN
